@@ -4,18 +4,21 @@
 
 This is a project whose goal is to combine a Raspberry Pi Photobooth with Google Deep Dream image library.
 
-Deep Dream is a neural network library Google put out to
-https://github.com/google/deepdream
+[Google Deep Dream](https://github.com/google/deepdream) is a neural network library to do weird things with photos.
 
-The core steps for a raspberry pi photobooth:
-http://makezine.com/projects/raspberry-pi-photo-booth/
+The core steps for a raspberry pi photobooth come from [MAKE magazine's photbooth article](http://makezine.com/projects/raspberry-pi-photo-booth/).
 
-Google Deep dream setup on a raspberry pi:
+Following [Knight of pi](http://www.knight-of-pi.org) setup steps for the google deep dream on the raspberry pi:
 http://www.knight-of-pi.org/deepdreaming-on-a-raspberry-pi-2/
-
 
 ## setup
 
 We'll see where this goes.  Currently:
 
     ./bootstrap.sh
+
+
+## Collaborators
+
+* @dayne
+* @vlraymond
