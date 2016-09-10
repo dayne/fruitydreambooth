@@ -22,3 +22,10 @@ We'll see where this goes.  Currently:
 
 * @dayne
 * @vlraymond
+* @teknofire
+
+## hacking notes
+
+Using @wyolum's TouchSelfie. If mega hacking happens to TouchSelfie and we want to pull those in use the git pull subtree option.
+
+   git pull -s subtree
