@@ -34,4 +34,3 @@ Using @wyolum's TouchSelfie. If mega hacking happens to TouchSelfie and we want 
  
  @frutidreambooth
  
- https://apps.twitter.com/app/12824555
