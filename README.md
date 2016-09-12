@@ -16,9 +16,8 @@ The core steps for a raspberry pi photobooth come from [MAKE magazine's photboot
 ## Target users for this project are:
 Geeky Wedding guests
 
-## Ideal use case for this project is:
-Wedding guests are able to access QR codes using their phone to remotely take pictures using the photobooth. The QR code allows any wedding guest with a mobile phone that can connect to the internet to "take a photo". 
-Guest photos are automatically tweeted from @frutidreambooth
+## Imagiend use case for this project is:
+Wedding guests with mobile phones can remotely take pictures using the Pi photobooth. The QR code allows any wedding guest with a mobile phone that can connect to the internet to "take a photo" and tweet it from the @frutidreambooth twitter account.
 
 ## For privacy:
 When the photobooth is turned off and on again access is reset.
