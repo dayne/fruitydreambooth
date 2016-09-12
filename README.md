@@ -21,7 +21,10 @@ Wedding guests are able to access QR codes using their phone to remotely take pi
 Guest photos are automatically tweeted from @frutidreambooth
 
 ## For privacy:
-the project can re-set its access, does not reveal Twitter access codes, and is designed to notify via speaker when it is taking a photo.
+When the photobooth is turned off and on again access is reset.
+QR Code requires that guests must have been in the same room as the photobooth - does not allow non-attendees to easily access the booth
+The code does not make readiliy accessibleTwitter access keys
+The photobooth is designed to notify via speaker when it is taking a photo (not currently functioning).
 
 ## For open access:
 THe QR code democritizes access to the photo booth by side-stepping wifi and allowing guests to use their own data / wifi 
