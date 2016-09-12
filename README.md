@@ -2,7 +2,7 @@
 
 ### The Dreamy Raspberry Pi Photobooth
 
-This is a project that combines a Raspberry Pi Photobooth with Twitter and QR Codes.
+This is a project that combines a Raspberry Pi Photobooth with Twitter's API and QR Codes.
 
 The core steps for a raspberry pi photobooth come from [MAKE magazine's photbooth article](http://makezine.com/projects/raspberry-pi-photo-booth/).
 
