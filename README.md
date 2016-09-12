@@ -2,14 +2,30 @@
 
 ### The Dreamy Raspberry Pi Photobooth
 
-This is a project whose goal is to combine a Raspberry Pi Photobooth with Google Deep Dream image library.
-
-[Google Deep Dream](https://github.com/google/deepdream) is a neural network library to do weird things with photos.
+This is a project that combines a Raspberry Pi Photobooth with Twitter and QR Codes.
 
 The core steps for a raspberry pi photobooth come from [MAKE magazine's photbooth article](http://makezine.com/projects/raspberry-pi-photo-booth/).
 
-Following [Knight of pi](http://www.knight-of-pi.org) setup steps for the google deep dream on the raspberry pi:
-http://www.knight-of-pi.org/deepdreaming-on-a-raspberry-pi-2/
+## Values of this project are:
+- Silly
+- Built on Ruby and Raspberry Pi
+- Emphasizes open access and is democratic
+- Respects user privacy
+- Subverts the male gaze
+
+## Target users for this project are:
+Geeky Wedding guests
+
+## Ideal use case for this project is:
+Wedding guests are able to access QR codes using their phone to remotely take pictures using the photobooth. The QR code allows any wedding guest with a mobile phone that can connect to the internet to "take a photo". 
+Guest photos are automatically tweeted from @frutidreambooth
+
+## For privacy:
+the project can re-set its access, does not reveal Twitter access codes, and is designed to notify via speaker when it is taking a photo.
+
+## For open access:
+THe QR code democritizes access to the photo booth by side-stepping wifi and allowing guests to use their own data / wifi 
+
 
 ## setup
 
@@ -23,6 +39,7 @@ We'll see where this goes.  Currently:
 * @dayne
 * @vlraymond
 * @teknofire
+* @ferrio
 
 ## hacking notes
 
