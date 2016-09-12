@@ -20,15 +20,15 @@ Geeky Wedding guests
 Wedding guests with mobile phones can remotely take pictures using the Pi photobooth. The QR code allows any wedding guest with a mobile phone that can connect to the internet to "take a photo" and tweet it from the @frutidreambooth twitter account.
 
 ## For privacy:
-When the photobooth is turned off and on again access is reset.
-QR Code requires that guests must have been in the same room as the photobooth - does not allow non-attendees to easily access the booth
-The code does not make readiliy accessibleTwitter access keys
-The photobooth is designed to notify via speaker when it is taking a photo (not currently functioning).
+- When the photobooth is turned off and on again access to the booth / twitter acct is reset.
+-The QR Code requires that guests at one point must have been in the same room as the photobooth (prohibiting non-attendees from easily accessing the booth)
+-The code does not make Twitter access keys readiliy accessible
+- The photobooth is designed to notify the room via a bluetooth speaker when it is taking a photo (Feature not currently functioning).
 
 ## For open access:
-The QR code democratizes access to the photobooth by side-stepping wifi and allowing guests to use their own data / wifi.
-The QR code democratizes access to the photobooth by allowing any guest to be the photographer
-The Twitter interface democratizes access to photos - allowing anyone with itnernet access to view photos and download photos. Twitter users can retweet and tag photos.
+- The QR code democratizes access to the photobooth by side-stepping wifi and allowing guests to use their own data plans / wifi access.
+- The QR code democratizes access to the photobooth by allowing any guest to be the photographer
+- The Twitter interface democratizes access to photos - allowing anyone with itnernet access to view photos and download photos. Twitter users can retweet and tag photos.
 
 
 ## setup
