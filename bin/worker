@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+
+puts "ARGV is : #{ARGV}"
+puts "ARGV.size is #{ARGV.size}"
+
+target_image = ARGV.shift 
+
+if target_image == nil
+	puts "give me a target image!"
+	exit 1
+end
+
+puts "target_image is: #{target_image}"
+
+if not File.exists?(target_image)
+	puts "image does not exist!!"
+	exit 1
+end
+
+
